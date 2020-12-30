@@ -33,3 +33,13 @@ python3 ./main.py
 chmod +x cron.sh # if you took the file from Windows 
 ./cron.sh
 ```
+
+### Loop
+
+* Find a useable terminal or make it background.
+
+```bash
+./loop.sh
+# or
+./watch.sh
+```
