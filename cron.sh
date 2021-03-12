@@ -1,6 +1,6 @@
 #!/bin/sh
 # where are you?
-CURRENT_DIRECTORY = $PWD
+CURRENT_DIRECTORY=$PWD
 # write out current crontab to temp file
 crontab -l > temp_cron_file
 # echo new cron into cron file
