@@ -1,5 +1,5 @@
 #/bin/sh
 while true; do
     python3 ./main.py
-    sleep 14400
+    sleep 300
 done
