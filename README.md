@@ -1,6 +1,10 @@
 # srun_auto_login
 Auto login script for Srun's (深澜软件) campus network authentication system.
 
+Tested on `sysver`==`1.01.20170413`, not compatible with `SRunCGIAuthIntfSvr V1.18 B20190220`.
+
+Use with caution, confirm your system version in advance.
+
 ## Prerequisites
 
 `python3`
